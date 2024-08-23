@@ -19,6 +19,6 @@ AnimalIF (Interface) -> Que implementa -> AnimalAB (Abstrata) -> Herdada por -> 
 
 e a partir dessas 3 que são construidas as classes de cada animal: **Cachorro, Gato, Elefante, Leão, Peixe e Pombo.**
 
-Na classe pripal há o instanciamento dessess animais com alguns atributos e ações designadas especificamente para alguns deles.
+Na classe principal há o instanciamento dessess animais com alguns atributos e ações designadas especificamente para alguns deles.
 
 
