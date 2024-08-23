@@ -1,5 +1,4 @@
-# Solutis School Dev Trail 2024 - Lista de Exercícios 04 – Orientação a Objetos Avançada em
-Java
+# Solutis School Dev Trail 2024 - Lista de Exercícios 04 – Orientação a Objetos Avançada em Java
 
 ---
 
